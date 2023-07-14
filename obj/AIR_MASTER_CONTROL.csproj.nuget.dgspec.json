@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj": {}
+  },
+  "projects": {
+    "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj",
+        "projectName": "AIR_MASTER_CONTROL",
+        "projectPath": "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj",
+        "packagesPath": "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\",
+        "outputPath": "C:\\PRJ\\AIR_MASTER_CONTROL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aleksei.tertychnyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

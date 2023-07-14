@@ -1,0 +1,15 @@
+C:\PRJ\AIR_MASTER_CONTROL\bin\Debug\net8.0-windows\AIR_MASTER_CONTROL.exe
+C:\PRJ\AIR_MASTER_CONTROL\bin\Debug\net8.0-windows\AIR_MASTER_CONTROL.deps.json
+C:\PRJ\AIR_MASTER_CONTROL\bin\Debug\net8.0-windows\AIR_MASTER_CONTROL.runtimeconfig.json
+C:\PRJ\AIR_MASTER_CONTROL\bin\Debug\net8.0-windows\AIR_MASTER_CONTROL.dll
+C:\PRJ\AIR_MASTER_CONTROL\bin\Debug\net8.0-windows\AIR_MASTER_CONTROL.pdb
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.csproj.AssemblyReference.cache
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.AssemblyInfoInputs.cache
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.AssemblyInfo.cs
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.csproj.CoreCompileInputs.cache
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.dll
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\refint\AIR_MASTER_CONTROL.dll
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.pdb
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\AIR_MASTER_CONTROL.genruntimeconfig.cache
+C:\PRJ\AIR_MASTER_CONTROL\obj\Debug\net8.0-windows\ref\AIR_MASTER_CONTROL.dll
