@@ -1,0 +1,15 @@
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.exe
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.deps.json
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.runtimeconfig.json
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.dll
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.pdb
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.csproj.AssemblyReference.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.AssemblyInfoInputs.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.AssemblyInfo.cs
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.csproj.CoreCompileInputs.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.dll
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\refint\AIR_MASTER_CONTROL.dll
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.pdb
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.genruntimeconfig.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\ref\AIR_MASTER_CONTROL.dll

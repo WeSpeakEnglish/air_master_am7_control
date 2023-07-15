@@ -1,33 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net7.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\": {}
+    "C:\\Users\\Nutzer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj",
+      "projectUniqueName": "D:\\PRJ\\air_master_am7_control\\AIR_MASTER_CONTROL.csproj",
       "projectName": "AIR_MASTER_CONTROL",
-      "projectPath": "C:\\PRJ\\AIR_MASTER_CONTROL\\AIR_MASTER_CONTROL.csproj",
-      "packagesPath": "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\",
-      "outputPath": "C:\\PRJ\\AIR_MASTER_CONTROL\\obj\\",
+      "projectPath": "D:\\PRJ\\air_master_am7_control\\AIR_MASTER_CONTROL.csproj",
+      "packagesPath": "C:\\Users\\Nutzer\\.nuget\\packages\\",
+      "outputPath": "D:\\PRJ\\air_master_am7_control\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aleksei.tertychnyi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nutzer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net7.0-windows"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
           "projectReferences": {}
         }
       },
@@ -38,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +62,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

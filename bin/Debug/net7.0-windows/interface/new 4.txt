@@ -1,0 +1,1 @@
+MAX22530AWE+ have Vref output (REF, 1.8V) and VDDF (higher, ex 3.1V). May I use this outputs to supply very low current external load like TSC210 (current op-amp from ST, it use Vref and VCC - so VDDF to VCC, Vref to REF)

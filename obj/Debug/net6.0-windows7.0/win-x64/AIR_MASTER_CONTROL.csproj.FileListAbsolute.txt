@@ -1,0 +1,5 @@
+D:\PRJ\air_master_am7_control\obj\Debug\net6.0-windows7.0\win-x64\AIR_MASTER_CONTROL.csproj.AssemblyReference.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net6.0-windows7.0\win-x64\AIR_MASTER_CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRJ\air_master_am7_control\obj\Debug\net6.0-windows7.0\win-x64\AIR_MASTER_CONTROL.AssemblyInfoInputs.cache
+D:\PRJ\air_master_am7_control\obj\Debug\net6.0-windows7.0\win-x64\AIR_MASTER_CONTROL.AssemblyInfo.cs
+D:\PRJ\air_master_am7_control\obj\Debug\net6.0-windows7.0\win-x64\AIR_MASTER_CONTROL.csproj.CoreCompileInputs.cache

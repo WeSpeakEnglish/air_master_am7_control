@@ -1,0 +1,7 @@
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\AIR_MASTER_CONTROL.pdb
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\D3DCompiler_47_cor3.dll
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\PenImc_cor3.dll
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\PresentationNative_cor3.dll
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\vcruntime140_cor3.dll
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\wpfgfx_cor3.dll
+D:\PRJ\air_master_am7_control\bin\release\net7.0-windows\win10-x64\publish\AIR_MASTER_CONTROL.exe
