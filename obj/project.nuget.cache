@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "PY1N3ndAozApGXM3byk1I6CzVC5ONMawbqFkIU9aAbQN7lp8P+SlXS6F1Oxz45y5w47n9G9AmYzU1U9cZlHUyw==",
+  "dgSpecHash": "jTjQ6qqFdllzMQ2K4u4dCvD7Rait3fEQ40KoDYxJZMbblnsEZCzTQtL5aL/ffos3Zbjd91crpzFRpl1xTdejjg==",
   "success": true,
   "projectFilePath": "D:\\PRJ\\air_master_am7_control\\AIR_MASTER_CONTROL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nutzer\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

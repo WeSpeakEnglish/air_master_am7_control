@@ -1,11 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v7.0",
+    "name": ".NETCoreApp,Version=v7.0/win10-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v7.0": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/win10-x64": {
       "AIR_MASTER_CONTROL/1.0.0": {
         "dependencies": {
           "System.IO.Ports": "7.0.0"
@@ -14,33 +15,9 @@
           "AIR_MASTER_CONTROL.dll": {}
         }
       },
-      "runtime.linux-arm.runtime.native.System.IO.Ports/7.0.0": {
-        "runtimeTargets": {
-          "runtimes/linux-arm/native/libSystem.IO.Ports.Native.so": {
-            "rid": "linux-arm",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "runtime.linux-arm64.runtime.native.System.IO.Ports/7.0.0": {
-        "runtimeTargets": {
-          "runtimes/linux-arm64/native/libSystem.IO.Ports.Native.so": {
-            "rid": "linux-arm64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "runtime.linux-x64.runtime.native.System.IO.Ports/7.0.0": {
-        "runtimeTargets": {
-          "runtimes/linux-x64/native/libSystem.IO.Ports.Native.so": {
-            "rid": "linux-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
+      "runtime.linux-arm.runtime.native.System.IO.Ports/7.0.0": {},
+      "runtime.linux-arm64.runtime.native.System.IO.Ports/7.0.0": {},
+      "runtime.linux-x64.runtime.native.System.IO.Ports/7.0.0": {},
       "runtime.native.System.IO.Ports/7.0.0": {
         "dependencies": {
           "runtime.linux-arm.runtime.native.System.IO.Ports": "7.0.0",
@@ -50,44 +27,14 @@
           "runtime.osx-x64.runtime.native.System.IO.Ports": "7.0.0"
         }
       },
-      "runtime.osx-arm64.runtime.native.System.IO.Ports/7.0.0": {
-        "runtimeTargets": {
-          "runtimes/osx-arm64/native/libSystem.IO.Ports.Native.dylib": {
-            "rid": "osx-arm64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "runtime.osx-x64.runtime.native.System.IO.Ports/7.0.0": {
-        "runtimeTargets": {
-          "runtimes/osx-x64/native/libSystem.IO.Ports.Native.dylib": {
-            "rid": "osx-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
+      "runtime.osx-arm64.runtime.native.System.IO.Ports/7.0.0": {},
+      "runtime.osx-x64.runtime.native.System.IO.Ports/7.0.0": {},
       "System.IO.Ports/7.0.0": {
         "dependencies": {
           "runtime.native.System.IO.Ports": "7.0.0"
         },
         "runtime": {
-          "lib/net7.0/System.IO.Ports.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/unix/lib/net7.0/System.IO.Ports.dll": {
-            "rid": "unix",
-            "assetType": "runtime",
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          },
           "runtimes/win/lib/net7.0/System.IO.Ports.dll": {
-            "rid": "win",
-            "assetType": "runtime",
             "assemblyVersion": "7.0.0.0",
             "fileVersion": "7.0.22.51805"
           }

@@ -1,9 +1,10 @@
 ﻿namespace AIR_MASTER_CONTROL;
-
+using System.IO.Ports;
 partial class Form1
 {
     private System.ComponentModel.IContainer components = null;
     private System.Windows.Forms.WebBrowser webBrowser1;
+    private SerialPort MyPort;
 
     protected override void Dispose(bool disposing)
     {

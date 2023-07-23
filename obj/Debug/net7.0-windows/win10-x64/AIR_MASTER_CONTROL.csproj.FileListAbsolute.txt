@@ -13,3 +13,5 @@ D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\refint\AIR_MAST
 D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.pdb
 D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.genruntimeconfig.cache
 D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\ref\AIR_MASTER_CONTROL.dll
+D:\PRJ\air_master_am7_control\bin\Debug\net7.0-windows\win10-x64\System.IO.Ports.dll
+D:\PRJ\air_master_am7_control\obj\Debug\net7.0-windows\win10-x64\AIR_MASTER_CONTROL.csproj.CopyComplete
