@@ -14,7 +14,16 @@ partial class Form1
         }
         base.Dispose(disposing);
     }
+    private int ListComPorts(System.Windows.Forms.HtmlDocument document){
+         string[] ports = SerialPort.GetPortNames();
+         Object[] objArray = new Object[ports.Length];
 
+         for (int i = 0; i < objArray.Length; i++)
+                objArray[i] = (Object)(ports[i]);
+
+        document.InvokeScript("ListComPorts", objArray);
+        return 0;
+    }
     private void WebBrowser1DocumentCompleted(object sender,
            WebBrowserDocumentCompletedEventArgs e)
     {
@@ -45,5 +54,6 @@ partial class Form1
         this.Controls.Add(this.webBrowser1);
         this.ResumeLayout(false);
         this.PerformLayout();
+        this.ListComPorts(this.webBrowser1.Document);
     }
 }
