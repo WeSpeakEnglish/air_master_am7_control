@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SVEYVxSGk0B2ED/7pnn2JqUHnLs4hwRgptmuBY91Ct/VUztWOgVVwXDhCE3O+WrPk9ZNvizeP4iKZD4M8bZnag==",
+  "dgSpecHash": "iBENDAgfSfGfXmtTJorpD7FFN+5f/M5g5UtKKlm82HbHuk6lJran8IiJpwoAj/O8wjSTsLbWT7JIz0XAwDc1lg==",
   "success": true,
-  "projectFilePath": "D:\\PRJ\\air_master_am7_control\\AIR_MASTER_CONTROL.csproj",
+  "projectFilePath": "C:\\PRJ\\air_master_am7_control\\AIR_MASTER_CONTROL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
-    "C:\\Users\\Nutzer\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\icsharpcode.wpfdesigner\\8.1.45\\icsharpcode.wpfdesigner.8.1.45.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
+    "C:\\Users\\aleksei.tertychnyi\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

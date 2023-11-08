@@ -1,0 +1,15 @@
+C:\PRJ\air_master_am7_control\bin\Debug\net462\AIR_MASTER_CONTROL.exe.config
+C:\PRJ\air_master_am7_control\bin\Debug\net462\AIR_MASTER_CONTROL.exe
+C:\PRJ\air_master_am7_control\bin\Debug\net462\AIR_MASTER_CONTROL.pdb
+C:\PRJ\air_master_am7_control\bin\Debug\net462\System.Net.Http.Formatting.dll
+C:\PRJ\air_master_am7_control\bin\Debug\net462\System.Web.Http.dll
+C:\PRJ\air_master_am7_control\bin\Debug\net462\Newtonsoft.Json.dll
+C:\PRJ\air_master_am7_control\bin\Debug\net462\System.IO.Ports.dll
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.csproj.AssemblyReference.cache
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.AssemblyInfoInputs.cache
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.AssemblyInfo.cs
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.csproj.CoreCompileInputs.cache
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.csproj.CopyComplete
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.exe
+C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.pdb

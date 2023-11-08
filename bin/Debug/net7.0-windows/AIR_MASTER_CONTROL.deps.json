@@ -8,10 +8,44 @@
     ".NETCoreApp,Version=v7.0": {
       "AIR_MASTER_CONTROL/1.0.0": {
         "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.2045.28",
           "System.IO.Ports": "7.0.0"
         },
         "runtime": {
           "AIR_MASTER_CONTROL.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2045.28": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          }
         }
       },
       "runtime.linux-arm.runtime.native.System.IO.Ports/7.0.0": {
@@ -100,6 +134,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.2045.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QDsR/HCNjzqYZrIuNLxyfmOIqVfMq1iGyoBR3OVVlFl4NZ12T8jRC0MNpOReKfgwtO5zh8g+eBYR6RAXFltcVA==",
+      "path": "microsoft.web.webview2/1.0.2045.28",
+      "hashPath": "microsoft.web.webview2.1.0.2045.28.nupkg.sha512"
     },
     "runtime.linux-arm.runtime.native.System.IO.Ports/7.0.0": {
       "type": "package",
