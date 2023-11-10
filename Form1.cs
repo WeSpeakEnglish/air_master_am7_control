@@ -4,7 +4,7 @@ using System.IO.Ports;
 public partial class Form1 : Form
 {
      public string MessageInTextarea1 = " ";
-    SerialPort MyPort;
+    SerialPort MyPort = new SerialPort();
     public Form1()
     {
         InitializeComponent();
@@ -25,7 +25,11 @@ public partial class Form1 : Form
 
  public void ConnectToCom (string COM_Name, int ConnectOrDisconnect){
 	if(ConnectOrDisconnect == 1){
-			MyPort= new SerialPort(COM_Name , 115200, Parity.None, 8, StopBits.One);
+			MyPort.PortName = COM_Name;
+            MyPort.BaudRate = 115200;
+            MyPort.Parity = Parity.None;
+            MyPort.DataBits = 8;
+            MyPort.StopBits = StopBits.One;
 			MyPort.ReadTimeout = 100;
             MyPort.WriteTimeout = 100;
             MyPort.ReadBufferSize = 4096;

@@ -1,11 +1,12 @@
 ﻿namespace AIR_MASTER_CONTROL;
 using System.IO.Ports;
-
+using System.Runtime.CompilerServices;
 
 partial class Form1
 {
     private System.ComponentModel.IContainer components = null;
     private System.Windows.Forms.WebBrowser webBrowser1;
+    private System.Windows.Forms.Timer timer1;
 
     protected override void Dispose(bool disposing)
     {
@@ -26,12 +27,12 @@ partial class Form1
         return 0;
     }
     		// ComList("WritePorts","Connected!");
-		 public void ComList(String COMfunction,String message)
+		 public object exScriptCall(String COMfunction,String message)
     {
          System.Windows.Forms.HtmlDocument document = this.webBrowser1.Document;
  		 Object[] objArray = new Object[1];
  		 objArray[0] = (Object)(message);
- 		 document.InvokeScript(COMfunction,objArray);
+ 		 return document.InvokeScript(COMfunction,objArray);
 		 }
  
       private delegate void LineReceivedEvent(byte[] read_buf);
@@ -53,9 +54,9 @@ partial class Form1
     
    
         string dataStringHEX = BitConverter.ToString(read_buf);
- 
+
         dataStringHEX = dataStringHEX.Replace("-"," ");
-        ComList("WritePorts",dataStringHEX);
+        exScriptCall("WritePorts",dataStringHEX);
         }    
  
         }
@@ -72,19 +73,39 @@ partial class Form1
         foreach(string port in ports){
         	MessageInnerHTML+="<option value="+port.ToString()+">"+port.ToString()+"</option>";
         }
-        ComList("CreateCOMportsList",MessageInnerHTML);
+        exScriptCall("CreateCOMportsList",MessageInnerHTML);
     }
     private void Form1_ResizeEnd(object sender, System.EventArgs e)
     {
         Control control = (Control)sender;
         this.webBrowser1.Size = new Size(this.Size.Width - 15, this.Size.Width - 15);
     }
+
+    private void Timer1Tick(object sender, System.EventArgs e)
+	{
+            Object responseCom = new Object(); 
+            
+    		this.Text= "SensorMe "+DateTime.Now.ToString();
+            object result = exScriptCall("checkEventBackEndCOM",null);
+
+           // object result = webBrowser1.Document.InvokeScript("checkEventBackEndCOM");
+
+  if(result != null)
+  {
+
+    string value1= (string)result;
+    int[] intValues = Array.ConvertAll<string, int>(value1.Split(','), Convert.ToInt32);
+  }
+
+	}
+
     private void InitializeComponent()
     {
         this.components = new System.ComponentModel.Container();
         this.webBrowser1 = new System.Windows.Forms.WebBrowser();
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        this.ClientSize = new System.Drawing.Size(800, 450);
+        this.ClientSize = new System.Drawing.Size(800, 800);
+        this.timer1 = new System.Windows.Forms.Timer();
         this.Text = "Form1";
         this.webBrowser1.Name = "webBrowser1";
         this.webBrowser1.ScrollBarsEnabled = false;
@@ -100,5 +121,8 @@ partial class Form1
         this.ResumeLayout(false);
         this.PerformLayout();
         this.ListComPorts(this.webBrowser1.Document);
+        this.timer1.Interval = 200;
+        this.timer1.Tick += new System.EventHandler(Timer1Tick);
+        this.timer1.Start();
     }
 }

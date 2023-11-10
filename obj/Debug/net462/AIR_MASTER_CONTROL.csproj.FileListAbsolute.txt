@@ -13,3 +13,6 @@ C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.csproj.CoreCom
 C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.csproj.CopyComplete
 C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.exe
 C:\PRJ\air_master_am7_control\obj\Debug\net462\AIR_MASTER_CONTROL.pdb
+C:\PRJ\air_master_am7_control\bin\Debug\net462\ICSharpCode.WpfDesign.Designer.dll
+C:\PRJ\air_master_am7_control\bin\Debug\net462\ICSharpCode.WpfDesign.XamlDom.dll
+C:\PRJ\air_master_am7_control\bin\Debug\net462\ICSharpCode.WpfDesign.dll
